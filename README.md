@@ -7,4 +7,4 @@ This is automated python project which send the birthday wish to a person automa
 i.Download and place all file in same folder.
 ii.Now run Bwish_Add_Data.exe to add birthdate and name of your friend(name by which you want to wish your friend….like nick name).
 iii.Boom your pc is ready to wish …this program will wish your friend automatically on his/her birthday.
-###Thank you.
+Thank you.
